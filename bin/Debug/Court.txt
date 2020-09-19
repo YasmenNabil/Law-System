@@ -1,0 +1,5 @@
+Cairo,New Cairo,The fifth assembly in front of the project machinery
+Cairo,North of Cairo,Abbasiya Extension of Ramses in front of the Police College
+Giza,Giza Primary School,Rabea El Gizy Street
+Hurghada,Red Sea Primary School,Shalaby Street
+Alexandria,Sidi Gaber al-Maqriya,Street of Mr. Karim Orabi Square

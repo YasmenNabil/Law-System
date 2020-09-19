@@ -1,0 +1,18 @@
+1234456,Ahmed Kamal Ali,01022548967,AhmedAli22@gamil,Rape,3
+5622354,Kareem Ali Hassan,01214478569,karemhassan2@gamil,Bankruptcy,4
+8888956,Ahmed Gamal Gldeen,01022548967,AhmedGamal288@gamil,Rape,5
+8774965,Mohamed Saleh kamal,01058965636,mosaleh221@gamil,Bankruptcy,3
+1888856,Ahmed Adel Mostafa,01223446754,Ahmedadel222@gamil,Property,4
+8789996,Kamal Ali Saied,01022548967,KamalAli22@gamil,General Provisions,5
+5555456,Ahmed Mahomud Alaa,01025896413,AhmedAlaa22@gamil,Property,3
+5622354,Ali Kareem Saeed,01556999999,karemali52@gamil,Social Danger,4
+8888956,Gamal Gldeen Fareed,01569412332,Gamal288@gamil,Criminal,5
+8774965,Omar Mohamed kamal,01058965636,omarkaml221@gamil,General Provisions,3
+1888856,Ahmed Sayd Mostafa,01229985754,Ahmedmostafa222@gamil,Forgery,4
+8789996,Saied Aldulmonem,01022548967,SaiedAa22@gamil,Social Danger,5
+8789996,Mahmoud Saied,01022356967,SaiedAa22@gamil,Criminal,3
+1888856,Hady Mostafa,01229987784,Hadymostafa222@gamil,Forgery,4
+8774965,Mohamed Omar,01058965636,omarkl221@gamil,Theft,5
+1888856,Ahmed Adel,01229985754,Ahmed3@gamil,Theft,3
+8774965,Wael kamal,01058965636,Wkaml221@gamil,Bribery,4
+1888856,Ahmed Hassan,01229985754,AhmedH222@gamil,Bribery,5
